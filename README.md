@@ -1,6 +1,6 @@
 # LeetCode Solutions — @Variant-L1130
 
-> Synced automatically from [LeetCode.io](https://leetcode.com) · Repository: `leetcode`
+> Synced automatically from [LeetCode.com](https://leetcode.com) · Repository: `leetcode`
 
 ---
 
